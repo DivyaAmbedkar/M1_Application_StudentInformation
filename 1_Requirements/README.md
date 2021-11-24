@@ -30,7 +30,6 @@ They are add Student Details, Show Eligible Students, delete Student Record, Upd
 
 ## SWOT ANALYSIS
 
-![23037-swotheadfinal](https://user-images.githubusercontent.com/57322769/132169738-7f7f1251-0042-4d57-87ed-93482f2e809a.jpg)
 
 ## 4W's and 1'H
 ## Who: 
