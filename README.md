@@ -13,5 +13,16 @@ Build | Code Quality | Unity | Git Inspector
 --------------|--|---------------|---------------------
 [![linux](https://github.com/DivyaAmbedkar/M1_Application_StudentInformation/actions/workflows/linux.yml/badge.svg)](https://github.com/DivyaAmbedkar/M1_Application_StudentInformation/actions/workflows/linux.yml) [![windows](https://github.com/DivyaAmbedkar/M1_Application_StudentInformation/actions/workflows/windows.yml/badge.svg)](https://github.com/DivyaAmbedkar/M1_Application_StudentInformation/actions/workflows/windows.yml) | [![C/C++ CI](https://github.com/DivyaAmbedkar/M1_Application_StudentInformation/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/DivyaAmbedkar/M1_Application_StudentInformation/actions/workflows/c-cpp.yml) | [![CodeQuality Dynamic Code Analysis Valgrind](https://github.com/DivyaAmbedkar/M1_Application_StudentInformation/actions/workflows/dynamic-code-quality.yml/badge.svg)](https://github.com/DivyaAmbedkar/M1_Application_StudentInformation/actions/workflows/dynamic-code-quality.yml) | [![Unit Testing - Unity](https://github.com/DivyaAmbedkar/M1_Application_StudentInformation/actions/workflows/unity.yml/badge.svg)](https://github.com/DivyaAmbedkar/M1_Application_StudentInformation/actions/workflows/unity.yml) | [![Contribution Check - Git Inspector](https://github.com/DivyaAmbedkar/M1_Application_StudentInformation/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/DivyaAmbedkar/M1_Application_StudentInformation/actions/workflows/gitinspector.yml)
 
+## Folder Structure
+|Folder|Description|
+|:-----|:----------|
+|1_Requirements|Documents detailing and research|
+|2_Design|Documents regarding design details|
+|3_Implementation|All code and documentation|
+|4_TestPlan|Documents with test plan and procedure|
+|5_Report|Project Report|
+|6_Images|Project output and videos|
+
+
 
 
