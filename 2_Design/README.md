@@ -1,18 +1,19 @@
 # Design 
 
 ## High level design
-Architecture Design:
 
+### Architecture Design
 
-
+![image1](https://user-images.githubusercontent.com/94296796/143383670-4616acf9-3565-42b7-91c2-c028dfe267b8.jpg)
 
 ## Use case diagram
-![IMG](https://user-images.githubusercontent.com/57322769/132371145-61e42151-e35e-4540-89dd-6086f2d60eff.jpg)
+
+![image 2](https://user-images.githubusercontent.com/94296796/143383878-9e774e10-59a2-4041-a9f6-763af163f9e6.jpg)
 
 ## Low level design 
+
 ### State diagram 
 
-![IMAG4](https://user-images.githubusercontent.com/57322769/132381091-e4d82ecb-4d9f-4fc2-8fae-168bb1a7a0f8.jpg)
+![image4](https://user-images.githubusercontent.com/94296796/143384119-2b574241-f776-4ca6-a1bb-2107568e480e.jpg)
 
-
-![IMG3](https://user-images.githubusercontent.com/57322769/132374449-d149ad84-84cb-4c58-b47c-02acb7ed5c5a.jpg)
+![image3](https://user-images.githubusercontent.com/94296796/143384128-3cc042e8-3bb9-4258-9149-fffa72aa107a.jpg)
