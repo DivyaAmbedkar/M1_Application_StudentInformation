@@ -21,7 +21,7 @@ Build | Code Quality | Unity | Git Inspector
 |3_Implementation|All code and documentation|
 |4_TestPlan|Documents with test plan and procedure|
 |5_Report|Project Report|
-|6_Images|Project output and videos|
+|6_Images|Project output images|
 
 
 
