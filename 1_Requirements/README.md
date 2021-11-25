@@ -29,6 +29,7 @@ They are add Student Details, Show Eligible Students, delete Student Record, Upd
 5. delete(): This function get the student roll number to delete the student record and update the student’s list.
 
 ## SWOT ANALYSIS
+
 ### Strength
 1. Eco-Friendly: paperwork can be avoided
 2.Efficient control over student data
@@ -41,7 +42,10 @@ They are add Student Details, Show Eligible Students, delete Student Record, Upd
 2. Absence of proper internet-network makes it difficult for a user to access information
 
 ### Opportunities
+1. Availability of specialized skills.
 
+### Threats
+1. Quite often, institutions tend to use their credentials for accessing 3rd party APIs. 
 
 ## 4W's and 1'H
 ## Who: 
