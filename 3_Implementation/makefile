@@ -1,16 +1,15 @@
-PROJ_NAME = StudentInformation
+PROJ_NAME = exam
 TEST_PROJ_NAME = Test_$(PROJ_NAME)
 
 OBJ = src/ll.o src/student.o src/main.o
 TEST = test/test.o unity/unity.o src/ll.o src/student.o
 
-SRC =main.c\
-src/ll.c
+SRC =src/ll.c \
 src/student.c 
 
 COV_SRC = test.c
 
-TEST_SRC = test/test.c\
+TEST_SRC = test/test.c \
 unity/unity.c 
 INC_H = inc
 INC_T = unity
