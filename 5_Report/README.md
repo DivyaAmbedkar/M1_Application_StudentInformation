@@ -1,4 +1,4 @@
-
+# REPORT
 # Student information System
 
 ![StudentInformation](https://user-images.githubusercontent.com/94296796/143388488-ad54912f-6384-496c-ab16-3fd554fe2e53.jpg)
@@ -96,6 +96,7 @@ Enhance the efficiency of schools in meeting their requirements and capabilities
 
 ![image3](https://user-images.githubusercontent.com/94296796/143389294-ea56de21-c7bf-435d-9d49-48322ab47255.jpg)
 
+## TEST PLAN
 
 |Test ID|Description|Expected I/P|Expected O/P|Actual O/P|Type of Test|
 |:------|:----------------------------------|:-------|:-------|:--------|:------|
