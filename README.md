@@ -1,12 +1,19 @@
 # M1_Application_StudentInformation
 
-| Build Linux                                                                                                                                                                                                | Unit Testing                                                                                                                                                                                                  | Codacy                                                                                                                                                                                                                                                                                 | Cpp Check                                                                                                                                                                                                     |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [![Build_linux](https://github.com/DivyaAmbedkar/M1_Application_StudentInformation/actions/workflows/build_linux.yml/badge.svg)](https://github.com/DivyaAmbedkar/M1_Application_StudentInformation/actions/workflows/build_linux.yml) | [![Unit_Testing](https://github.com/DivyaAmbedkar/M1_Application_StudentInformation/actions/workflows/unit_testing.yml/badge.svg)](https://github.com/DivyaAmbedkar/M1_Application_StudentInformation/actions/workflows/unit_testing.yml) | [![Codacy Badge](https://app.codacy.com/project/badge/Grade/97819b1acaeb4c5fb0b574fc87b92acd)](https://www.codacy.com/gh/DivyaAmbedkar/M1_Application_StudentInformation/dashboard?utm_source=github.com&utm_medium=referral&utm_content=DivyaAmbedkar/M1_Application_StudentInformation&utm_campaign=Badge_Grade) | [![Static code Cppcheck](https://github.com/DivyaAmbedkar/M1_Application_StudentInformation/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/DivyaAmbedkar/M1_Application_StudentInformation/actions/workflows/cppcheck.yml) |
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/9d49033587c946339fff5310f10366ab)](https://www.codacy.com/gh/DivyaAmbedkar/M1_Application_StudentInformation/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=DivyaAmbedkar/M1_Application_StudentInformation&amp;utm_campaign=Badge_Grade)
 
-| Build Windows                                                                                                                                                                                                    |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [![Build Windows](https://github.com/DivyaAmbedkar/M1_Application_StudentInformation/actions/workflows/build_windows.yml/badge.svg)](https://github.com/DivyaAmbedkar/M1_Application_StudentInformation/actions/workflows/build_windows.yml) |
+![Code Quality Score](https://www.code-inspector.com/project/27775/score/svg)
+
+![Code Grade](https://www.code-inspector.com/project/27775/status/svg)
+
+[![Unit Testing - Unity](https://github.com/DivyaAmbedkar/M1_Application_StudentInformation/actions/workflows/unity.yml/badge.svg)](https://github.com/DivyaAmbedkar/M1_Application_StudentInformation/actions/workflows/unity.yml)
+
+[![C/C++ CI](https://github.com/DivyaAmbedkar/M1_Application_StudentInformation/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/DivyaAmbedkar/M1_Application_StudentInformation/actions/workflows/c-cpp.yml)
+
+[![Contribution Check - Git Inspector](https://github.com/DivyaAmbedkar/M1_Application_StudentInformation/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/DivyaAmbedkar/M1_Application_StudentInformation/actions/workflows/gitinspector.yml)
+
+[![CodeQuality Dynamic Code Analysis Valgrind](https://github.com/DivyaAmbedkar/M1_Application_StudentInformation/actions/workflows/dynamic-code-quality.yml/badge.svg)](https://github.com/DivyaAmbedkar/M1_Application_StudentInformation/actions/workflows/dynamic-code-quality.yml)
+
 
 ## Folder Structure
 Folder             | Description
