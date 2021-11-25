@@ -13,6 +13,8 @@ Build | Code Quality | Unity | Git Inspector
 --------------|--|---------------|---------------------
 [![C/C++ CI - Build Status](https://github.com/DivyaAmbedkar/M1_Application_StudentInformation/actions/workflows/c-cpp.yml/badge.svg)](https://github.com//actions/workflows/c-cpp.yml) | [![Code Quality - Static Code - Cppcheck](https://github.com/DivyaAmbedkar/M1_Application_StudentInformation/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/DivyaAmbedkar/M1_Application_StudentInformation/actions/workflows/cppcheck.yml) [![CodeQuality Dynamic Code Analysis Valgrind](https://github.com/DivyaAmbedkar/M1_Application_StudentInformation/actions/workflows/CodeQuality_Dynamic.yml/badge.svg)](https://github.com/DivyaAmbedkar/M1_Application_StudentInformation/actions/workflows/CodeQuality_Dynamic.yml) | [![Unit Testing - Unity](https://github.com/DivyaAmbedkar/M1_Application_StudentInformation/actions/workflows/unity.yml/badge.svg)](https://github.com/DivyaAmbedkar/M1_Application_StudentInformation/actions/workflows/unity.yml) | [![Contribution Check - Git Inspector](https://github.com/DivyaAmbedkar/M1_Application_StudentInformation/actions/workflows/gitinspector.yml/badge.svg)] 
 
+[![windows](https://github.com/DivyaAmbedkar/M1_Application_StudentInformation/actions/workflows/build_windows.yml/badge.svg)](https://github.com/DivyaAmbedkar/M1_Application_StudentInformation/workflows/build_windows.yml) 
+ [![linux](https://github.com/DivyaAmbedkar/M1_Application_StudentInformation/actions/workflows/build_linux.yml/badge.svg)](https://github.com/DivyaAmbedkar/M1_Application_StudentInformation/actions/workflows/build_linux.yml)
 
 
 ## Folder Structure
