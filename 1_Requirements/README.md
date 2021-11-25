@@ -32,10 +32,9 @@ They are add Student Details, Show Eligible Students, delete Student Record, Upd
 
 ### Strength
 1. Eco-Friendly: paperwork can be avoided
-2.Efficient control over student data
-3.Monitor student performance
-4.Supervise multiple branches
-5.Cost-efficient and User-friendly
+2. Efficient control over student data
+3. Monitor student performance
+4. Efficient control over student data
 
 ### Weakness
 1. With huge flow in traffic the application is prone to performance issues.
