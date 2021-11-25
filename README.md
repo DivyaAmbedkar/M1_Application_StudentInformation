@@ -7,7 +7,7 @@
 ## Code Grade
 ![Code Grade](https://api.codiga.io/project/29842/status/svg)
 ## Code Quality
-[![Codacy Badge](https://app.codacy.com/project/badge/Grade/9d49033587c946339fff5310f10366ab)]
+![![Codacy Badge](https://app.codacy.com/project/badge/Grade/9d49033587c946339fff5310f10366ab)]
 (https://www.codacy.com/gh/DivyaAmbedkar/M1_Application_StudentInformation/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=DivyaAmbedkar/M1_Application_StudentInformation&amp;utm_campaign=Badge_Grade)
 
 
