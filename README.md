@@ -14,6 +14,10 @@
 
 [![CodeQuality Dynamic Code Analysis Valgrind](https://github.com/DivyaAmbedkar/M1_Application_StudentInformation/actions/workflows/dynamic-code-quality.yml/badge.svg)](https://github.com/DivyaAmbedkar/M1_Application_StudentInformation/actions/workflows/dynamic-code-quality.yml)
 
+[![linux](https://github.com/DivyaAmbedkar/M1_Application_StudentInformation/actions/workflows/linux.yml/badge.svg)](https://github.com/DivyaAmbedkar/M1_Application_StudentInformation/actions/workflows/linux.yml)
+
+[![windows](https://github.com/DivyaAmbedkar/M1_Application_StudentInformation/actions/workflows/windows.yml/badge.svg)](https://github.com/DivyaAmbedkar/M1_Application_StudentInformation/actions/workflows/windows.yml)
+
 
 ## Folder Structure
 Folder             | Description
