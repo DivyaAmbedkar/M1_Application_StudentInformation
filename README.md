@@ -1,5 +1,16 @@
 # M1_Application_StudentInformation
 
+
+
+## Code Quality Score
+![Code Quality Score](https://api.codiga.io/project/29842/score/svg)
+## Code Grade
+![Code Grade](https://api.codiga.io/project/29842/status/svg)
+## Code Quality
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/4d5226d5e71642f0847f5ad78ead0a64)](https://www.codacy.com/gh/DivyaAmbedkar/M1_Application_StudentInformation
+/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=DivyaAmbedkar/M1_Application_StudentInformation&amp;utm_campaign=Badge_Grade)
+
+
 Build | Code Quality | Unity | Git Inspector | Coverage
 --------------|--|---------------|---------------------|--------------
 [![C/C++ CI - Build Status](https://github.com/DivyaAmbedkar/M1_Application_StudentInformation/actions/workflows/c-cpp.yml/badge.svg)](https://github.com//actions/workflows/c-cpp.yml) | [![Code Quality - Static Code - Cppcheck](https://github.com/DivyaAmbedkar/M1_Application_StudentInformation/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/DivyaAmbedkar/M1_Application_StudentInformation/actions/workflows/cppcheck.yml) [![CodeQuality Dynamic Code Analysis Valgrind](https://github.com/DivyaAmbedkar/M1_Application_StudentInformation/actions/workflows/CodeQuality_Dynamic.yml/badge.svg)](https://github.com/DivyaAmbedkar/M1_Application_StudentInformation/actions/workflows/CodeQuality_Dynamic.yml) | [![Unit Testing - Unity](https://github.com/DivyaAmbedkar/M1_Application_StudentInformation/actions/workflows/unity.yml/badge.svg)](https://github.com/DivyaAmbedkar/M1_Application_StudentInformation/actions/workflows/unity.yml) |[![Contribution Check - Git Inspector](https://github.com/DivyaAmbedkar/M1_Application_StudentInformation/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/DivyaAmbedkar/M1_Application_StudentInformation/actions/workflows/gitinspector.yml) | [![CI-Coverage](https://github.com/DivyaAmbedkar/M1_Application_StudentInformation/actions/workflows/gcov.yml/badge.svg)](https://github.com/DivyaAmbedkar/M1_Application_StudentInformation/actions/workflows/gcov.yml)
