@@ -3,7 +3,8 @@
 ## High level design
 Architecture Design:
 
-![IMG2](https://user-images.githubusercontent.com/57322769/132372986-efcc2aa9-5415-4163-979e-ccf98772163c.jpg)
+
+
 
 ## Use case diagram
 ![IMG](https://user-images.githubusercontent.com/57322769/132371145-61e42151-e35e-4540-89dd-6086f2d60eff.jpg)
